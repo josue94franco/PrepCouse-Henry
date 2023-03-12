@@ -1,2 +1,2 @@
-# PrepCouse-Henry
-Este es un repositorio del modulo dos del PrepCourse Henry
+Josué Rodríguez Franco
+Este es un repositorio Prueba para clonar desde githup a mi escritorio local.
